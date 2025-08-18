@@ -3,7 +3,7 @@
 ## Olá! Eu sou o Gabriel Marcelini Fernandes 👋
 
 - 🎓 Cursando **Sistemas de Informação** no [IFSULDEMINAS](https://www.ifsuldeminas.edu.br/)
-- 📚 Atualmente no **5º período**
+- 📚 Atualmente no **6º período**
 - 🌐 Conhecimento em **Java**, **MySQL**, **HTML** e **CSS**
 
 ---
